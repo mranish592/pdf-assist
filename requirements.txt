@@ -1,0 +1,13 @@
+langchain>=0.1.0
+langchain-groq
+langchain-community
+langchain-huggingface
+annoy
+fastapi
+uvicorn
+streamlit
+pdfplumber
+python-multipart
+python-dotenv
+requests
+sentence-transformers 
